@@ -1,0 +1,36 @@
+{
+  "name": "strapi-provider-upload-local-url",
+  "version": "1.0.0",
+  "description": "An strapi local upload provider with prefix option to set baseurl",
+  "dependencies": {},
+  "author": {
+    "name": "André Ciornavei",
+    "email": "andre.ciornavei@gmail.com",
+    "url": "https://github.com/andreciornavei"
+  },
+  "maintainers": [
+    {
+      "name": "André Ciornavei",
+      "email": "andre.ciornavei@gmail.com",
+      "url": "https://github.com/andreciornavei"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreciornavei/strapi-provider-upload-local-url.git"
+  },
+  "homepage": "https://github.com/andreciornavei/strapi-provider-upload-local-url#readme",
+  "bugs": {
+    "url": "https://github.com/andreciornavei/strapi-provider-upload-local-url/issues"
+  },
+  "keywords": [
+    "strapi",
+    "provider",
+    "upload",
+    "local",
+    "url",
+    "library",
+    "lib"
+  ],
+  "license": "MIT"
+}

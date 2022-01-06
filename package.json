@@ -23,6 +23,16 @@
   "bugs": {
     "url": "https://github.com/andreciornavei/strapi-provider-upload-local-url/issues"
   },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "strapi": {
+    "isProvider": true
+  },
+  "peerDependencies": {
+    "strapi-plugin-upload": "^3.1.6"
+  },
   "keywords": [
     "strapi",
     "provider",

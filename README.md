@@ -2,9 +2,9 @@
 
 ## 🚀 &nbsp; _Overview and Motivation_
 
-This provider reflects the `strapi-provider-upload-local`  but with an additional option to set de `baseurl` on upload url data as prefix.
+This provider reflects the `strapi-provider-upload-local`  but with an additional option to set the `baseurl` on upload url data as prefix.
 
-Generally the provider-upload-local is used for development purposes and other providers already implements the a baseurl of the provided solution, this provider just prevents refactoring when changes from deveopment environment to staging/production environments.
+Generally the provider-upload-local is used for development purposes and other providers already implements the baseurl of the provided solution, this provider just prevents refactoring when changes from development environment to staging/production environments.
 
 ---
 

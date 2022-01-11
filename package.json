@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-local-url",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An strapi local upload provider with prefix option to set baseurl",
   "dependencies": {},
   "author": {

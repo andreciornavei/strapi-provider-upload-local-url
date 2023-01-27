@@ -15,10 +15,12 @@ Generally the provider-upload-local is used for development purposes and other p
 module.exports = ({ env }) => {
   return ({
     upload: {
-      provider: 'local-url',
-      providerOptions: {
-        baseurl: "http://localhost:1337"
-      },
+      config: {
+        provider: 'strapi-provider-upload-local-url',
+        providerOptions: {
+          baseurl: "http://localhost:1337"
+        }
+      }
     },
   })
 };

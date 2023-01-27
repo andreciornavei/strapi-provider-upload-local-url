@@ -1,8 +1,11 @@
 {
   "name": "strapi-provider-upload-local-url",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "An strapi local upload provider with prefix option to set baseurl",
-  "dependencies": {},
+  "dependencies": {
+    "@strapi/utils": "^4.6.0",
+    "fs-extra": "^11.1.0"
+  },
   "author": {
     "name": "André Ciornavei",
     "email": "andre.ciornavei@gmail.com",
